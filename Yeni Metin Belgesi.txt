@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html dili="tr">
+<kafa>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=cihaz-genişliği, başlangıç-ölçeği=1.0">
+  <title>Öğrenciler için Erasmus Rehberi</title>
+  <stil>
+    * {
+      kutu boyutlandırma: sınır kutusu;
+    }
+    vücut {
+      marj: 0;
+      font-family: 'Segoe UI', sans-serif;
+      arka plan-rengi: #f4f4f4;
+      renk: #333;
+    }
+    Başlık {
+      arka plan rengi: #2c3e50;
+      renk: beyaz;
+      dolgu: 30px 20px;
+      metin hizalama: merkez;
+    }
+    gezinme {
+      görüntüleme: esnek;
+      flex-wrap: sarmak;
+      içeriği-haklı-göster: merkez;
+      arka plan rengi: #34495e;
+    }
+    gezinme {
+      renk: beyaz;
+      metin-dekorasyonu: yok;
+      dolgu: 15px 20px;
+      görüntüleme: blok;
+    }
+    gezinme a:hover {
+      arka plan rengi: #2c3e50;
+    }
+    bölüm {
+      dolgu: 30px 20px;
+      maksimum genişlik: 1000 piksel;
+      kenar boşluğu: otomatik;
+    }
+    h2 {
+      renk: #2c3e50;
+    }
+    altbilgi {
+      arka plan rengi: #2c3e50;
+      renk: beyaz;
+      metin hizalama: merkez;
+      dolgu: 20 piksel;
+      kenar boşluğu-üst: 30px;
+    }
+    .stadt-kutusu {
+      arka plan-rengi: #eaeaea;
+      dolgu: 15px;
+      kenar boşluğu: 10px 0;
+      border-left: 5px katı #2980b9;
+    }
+    @media (maksimum genişlik: 600 piksel) {
+      gezinme {
+        esnek-yön: sütun;
+      }
+    }
+  </stil>
+</başlık>
+<gövde>
+  <başlık>
+    <h1>Öğrenim için Erasmus Rehberi</h1>
+    <p>Eine Web Sitesi von Edanur Bağdat</p>
+  </başlık>
+
+  <nav>
+    <a href="#was-ist-erasmus">Erasmus muydu?</a>
+    <a href="#bewerbung">Bewerbung</a>
+    <a href="#leben">Deutschland'da Leben</a>
+    <a href="#staedte">Städte ve Üniversite</a>
+    <a href="#kontakt">İletişim</a>
+  </nav>
+
+  <section id="was-ist-erasmus">
+    <h2>Erasmus neydi?</h2>
+    <p>Avrupa Birliği Erasmus+ Programı, Avustralya'da bulunan bir Studiums olan Möglichkeit ile ilgili bir çalışmadır. Bu, Austausch'un bir kültürüdür, Sprachkenntnissen'in Verbesserung'u ve kişisel bir etkileşimdir.</p>
+  </bölüm>
+
+  <section id="inceleme">
+    <h2>Değerlendirme</h2>
+    <ul>
+      <li>Uluslararası Ofis'in Üniversite hakkında bilgi vermesi.</li>
+      <li>Bir Ortak Üniversitemiz Var.</li>
+      <li>Reiche alle notwendigen Unterlagen fristgerecht ein (Lebenslauf, Motivationsschreiben, Sprahnachweise).</li>
+      <li>Zamanla tanışın ve işe başlayın.</li>
+    </ul>
+  </bölüm>
+
+  <section id="yaşam">
+    <h2>Almanya'da Yaşam</h2>
+    <p>Deutschland bietet eine hohe Lebensqualität, gute öffentliche Verkehrsmittel ve en güzel kültür Möglichkeiten. Ayrıca Erasmus-Öğrenci plaj testi:</p>
+    <ul>
+      <li>Wohnungssuche frühzeitig beginnen (WG, Studentsenwohnheim, vb.).</li>
+      <li>Krankenversicherung ist Pflicht.</li>
+      <li>Ein deutsches Bankkonto kann hilfreich sein.</li>
+      <li>Nutze Angebote für Studierende (ÖPNV-Biletler, Rabatte, Uni-Sport vb.).</li>
+    </ul>
+  </bölüm>
+
+  <section id="staedte">
+    <h2>Städte ve Üniversite</h2>
+    <div class="stadt-box">
+      <h3>Berlin</h3>
+      <p>Technische Universität Berlin, Humboldt-Universität. Çok kültürlü, tarih ve öğrenme.</p>
+    </div>
+    <div class="stadt-box">
+      <h3>Münih</h3>
+      <p>Ludwig-Maximilians-Universität, TU München. Modern, daha güzel, çok daha iyi.</p>
+    </div>
+    <div class="stadt-box">
+      <h3>Heidelberg</h3>
+      <p>Eine der ältesten Universitäten Europas, wunderschöne Altstadt ve uluslararası değerlendirme.</p>
+    </div>
+    <div class="stadt-box">
+      <h3>Köln</h3>
+      <p>Köln Üniversitesi – Freizeitmöglichkeiten ve Gutem Studentsenleben ile birlikte Stadt'ı lebendige.</p>
+    </div>
+  </bölüm>
+
+  <section id="iletişim">
+    <h2>İletişim</h2>
+    <p>Hast du Fragen veya brauchst du Hilfe? İletişim bilgileri:</p>
+    <p><strong>E-posta:</strong> edanur.bagdat@email.com</p>
+    <p><strong>Instagram:</strong> @edanur.erasmus</p>
+  </bölüm>
+
+  <altbilgi>
+    <p>&kopyala; 2025 Edanur Bağdat. Alle Rechte vorbehalten.</p>
+  </altbilgi>
+</gövde>
+</html>
